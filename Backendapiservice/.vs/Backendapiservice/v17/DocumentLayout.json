@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|c:\\users\\aboub\\source\\repos\\backendapiservice\\backendapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|solutionrelative:backendapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|c:\\users\\aboub\\source\\repos\\backendapiservice\\backendapiservice\\application\\validators\\createofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|solutionrelative:backendapiservice\\application\\validators\\createofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|c:\\users\\aboub\\source\\repos\\backendapiservice\\backendapiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66001616-BD98-4F7E-B957-5A9C3450C84F}|Backendapiservice\\Backendapiservice.csproj|solutionrelative:backendapiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815440C2-9C2C-4633-97B6-2A1048A15A9A}|Backendapiservice.Tests\\Backendapiservice.Tests.csproj|c:\\users\\aboub\\source\\repos\\backendapiservice\\backendapiservice.tests\\handlers\\createdoctorhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815440C2-9C2C-4633-97B6-2A1048A15A9A}|Backendapiservice.Tests\\Backendapiservice.Tests.csproj|solutionrelative:backendapiservice.tests\\handlers\\createdoctorhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOfficeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Application\\Validators\\CreateOfficeValidator.cs",
+              "RelativeDocumentMoniker": "Backendapiservice\\Application\\Validators\\CreateOfficeValidator.cs",
+              "ToolTip": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Application\\Validators\\CreateOfficeValidator.cs",
+              "RelativeToolTip": "Backendapiservice\\Application\\Validators\\CreateOfficeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:30:22.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backendapiservice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backendapiservice\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:29:36.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Program.cs",
+              "RelativeDocumentMoniker": "Backendapiservice\\Program.cs",
+              "ToolTip": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice\\Program.cs",
+              "RelativeToolTip": "Backendapiservice\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwDMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:38:17.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDoctorHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice.Tests\\Handlers\\CreateDoctorHandlerTests.cs",
+              "RelativeDocumentMoniker": "Backendapiservice.Tests\\Handlers\\CreateDoctorHandlerTests.cs",
+              "ToolTip": "C:\\Users\\aboub\\source\\repos\\Backendapiservice\\Backendapiservice.Tests\\Handlers\\CreateDoctorHandlerTests.cs",
+              "RelativeToolTip": "Backendapiservice.Tests\\Handlers\\CreateDoctorHandlerTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:50:35.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

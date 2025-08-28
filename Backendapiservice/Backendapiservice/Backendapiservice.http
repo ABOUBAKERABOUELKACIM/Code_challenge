@@ -1,0 +1,6 @@
+@Backendapiservice_HostAddress = http://localhost:5229
+
+GET {{Backendapiservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
